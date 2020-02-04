@@ -1,10 +1,12 @@
-# Introduction
+# Predicting patient conveyance using free text notes
+
+## Introduction
 
 This repository accompanies our International Journal of Medical Informatics submission titled "Enhancing predictions of patient conveyance using emergency call handler free text notes for unconscious and fainting incidents reported to the London Ambulance Service".
 
 The file [las_uncon_pub.ipynb](https://github.com/KCL-Health-NLP/las_uncons/blob/master/las_uncon_pub.ipynb) contains the code used for the analysis.
 
-# Package versions
+## Package versions
 
 Python 3.6 and the following packages were used:
 
