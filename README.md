@@ -1,12 +1,12 @@
 # Introduction
 
-This repository accompanies our IMJI submission titled "Enhancing predictions of patient conveyance using emergency call handler free text notes for unconscious and fainting incidents reported to the London Ambulance Service"
+This repository accompanies our IMJI submission titled "Enhancing predictions of patient conveyance using emergency call handler free text notes for unconscious and fainting incidents reported to the London Ambulance Service".
 
-The file las_uncon_pub.ipynb contains all of the code used for the project
+The file las_uncon_pub.ipynb contains the code used for the analysis.
 
 # Package versions
 
-Python 3.6 and the following packages were used in the analysis
+Python 3.6 and the following packages were used:
 
 numpy 1.15.4
 pandas 0.23.4
